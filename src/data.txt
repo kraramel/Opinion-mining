@@ -1,0 +1,16 @@
+{
+    "companies": [
+        {
+            "company name ": "@axa",
+            "positif ": 4,
+            "negatif ": 4,
+            "neutral ": 22
+        },
+        {
+            "company name ": "@QBE",
+            "positif ": 10,
+            "negatif ": 3,
+            "neutral ": 17
+        }
+    ]
+}
